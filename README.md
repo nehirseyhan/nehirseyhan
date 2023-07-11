@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nehir Seyhan</h1>
 <h3 align="center">A passionate computer engineering student from Turkey</h3>
 
-- 🌱 I’m currently learning **Formal Languages, Logic Design with Verilog**
+- 🌱 I’m currently learning **UI/UX Design with Adobe XD, Data Visualization**
 
 - 📫 How to reach me **nhrseyhan@gmail.com**
 
