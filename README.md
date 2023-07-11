@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nhrseyhan@gmail.com**
 
-- ⚡ Fun fact **I am also into natural languages.**
+- ⚡ Fun fact **I am also into finance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
