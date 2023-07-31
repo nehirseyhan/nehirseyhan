@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Data Analysis and Visualization](https://colab.research.google.com/drive/1jCSkTWBiQGXMBJHD8hHExXvX4pl8RVG6?usp=sharing)
 
-- 🌱 I’m currently learning **UI/UX Design with Adobe XD**
+- 🌱 I’m currently learning **Web Design and Development**
 
 - 📫 How to reach me **nhrseyhan@gmail.com**
 
