@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **nhrseyhan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sj6kd1emRS3KtPLYqh9M_MqFbNbfGbiT/view?usp=sharing](https://drive.google.com/file/d/1sj6kd1emRS3KtPLYqh9M_MqFbNbfGbiT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
