@@ -22,4 +22,4 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nehirseyhan&show_icons=true&locale=en" alt="nehirseyhan" /></p>
 
-
+<p> <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehirseyhan" />  
